@@ -61,7 +61,7 @@ The dashboard helps visualize transaction trends, monitor failures and pending t
 
 - **Dashboard Preview**
 
-<img width="1366" height="768" alt="GeeGee Bank Dashboard" src="https://github.com/user-attachments/assets/e0e41e7c-2dff-40bd-87c3-b4432d3984a8" />
+<img width="1238" height="598" alt="GeeGee Bank Dashboard" src="https://github.com/user-attachments/assets/54f71df8-dac5-4eea-8d0f-ce3ce538be5f" />
 
 ---
 
